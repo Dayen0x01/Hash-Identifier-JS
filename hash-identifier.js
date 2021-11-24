@@ -1044,4 +1044,5 @@ function recognize(h) {
     }
 
 }
-recognize("d3f965211bb7cd320a3b4b6cc709cd7dae371ac5");
+
+module.exports = { recognize };
