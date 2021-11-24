@@ -2,9 +2,9 @@
   Hash-Identifier-JS
 </H1>
 
-Projeto feito em JS inspirado nesse amigo aqui <a href="https://github.com/blackploit/hash-identifier/">Hash-Indetifier Python</a>
+Projeto feito em Node.js inspirado nesse amigo aqui <a href="https://github.com/blackploit/hash-identifier/">Hash-Indetifier Python</a>
 
-<img src="https://i.imgur.com/HtpkvwA.png"/>
+<img src="https://i.imgur.com/OUcbAvO.png"/>
 
 ###### Formatos suportados:
 
