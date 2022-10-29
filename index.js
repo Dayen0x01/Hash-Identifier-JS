@@ -16,7 +16,7 @@ function drawLogo() {
     console.log(`#        \\/_/\\/_/\\/__/\\/_/\\/___/    \\/_/\\/_/     \\/_____/  \\/___/  v${version} #`);
     console.log('#        {NODE VERSION}                                                   #');
     console.log("#                                                             By Dayen    #");
-    console.log("#                                                       Based on Zion3    #");
+    console.log("#                                                       Based on Zion3R   #");
     console.log('###########################################################################');
 }
 
